@@ -16,3 +16,24 @@ Controls and overall game craft will be designed to be self sufficient. Realisti
 Time taken by a user to drive one lap around the track will be stored, and the target will be to beat this lap record
 * Multiple Camera Angles: 
 Introducing multiple camera angles like 1st person and 3rd person will add a new dimension to the game, giving it a realistic feel.
+
+
+## Usage Instructions
+
+1. **Install the Game using Unity**:
+   - Clone the repository or download the Unity project from the provided [Game Link](https://drive.google.com/drive/u/0/folders/1bvCmqL11zI31Fy8ouCAtefo56c9AAvh0).
+
+2. **Create a Controller with Green Circles for Controls**:
+   - Design and set up a controller with green circles to serve as the interactive controls for steering within the game.
+
+3. **Run the main-steering.py File**:
+   - Execute the `main-steering.py` file to initiate the OpenCV tracking for steering input.
+
+4. **Steering Setup**
+   - Attach trackers to the object to be used as a steering wheel.
+     
+5. **Enjoy the Game**:
+   - Immerse yourself in the F1 racing simulation and experience the thrill of controlling the vehicle through real-world steering input.
+
+
+Immerse yourself in the F1 racing simulation and experience the thrill of controlling the vehicle through real-world steering input.
