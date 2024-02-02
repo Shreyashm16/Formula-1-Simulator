@@ -17,6 +17,10 @@ Time taken by a user to drive one lap around the track will be stored, and the t
 * Multiple Camera Angles: 
 Introducing multiple camera angles like 1st person and 3rd person will add a new dimension to the game, giving it a realistic feel.
 
+## Demo
+
+[!["F1 Sim Demo"](https://img.youtube.com/vi/aForx9CrfdY/0.jpg)](https://www.youtube.com/watch?v=aForx9CrfdY)
+
 
 ## Usage Instructions
 
